@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Z8mCigIQlQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\FileSaver\\Infraestructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rony Obando\\.nuget\\packages\\awssdk.core\\4.0.0.33\\awssdk.core.4.0.0.33.nupkg.sha512",
+    "C:\\Users\\Rony Obando\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.7.1\\awssdk.dynamodbv2.4.0.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
