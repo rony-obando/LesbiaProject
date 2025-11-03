@@ -19,17 +19,30 @@ namespace Infraestructure
             });
         }
 
-        public Task<Venta?> GetByIdAsync(string id, CancellationToken ct = default)
+        public Task<Ventas?> GetByIdAsync(string id, CancellationToken ct = default)
             => _ctx.LoadAsync<VentaDdb>(id, ct).ContinueWith(t => t.Result?.ToDomain(), ct);
 
-        public Task SaveAsync(Venta venta, CancellationToken ct = default)
+        public Task SaveAsync(Ventas venta, CancellationToken ct = default)
             => _ctx.SaveAsync(VentaDdb.FromDomain(venta), ct);
 
         public Task DeleteAsync(string id, CancellationToken ct = default)
             => _ctx.DeleteAsync<VentaDdb>(id, ct);
+
+        public async Task<List<Ventas>> GetAllVentas(CancellationToken ct = default)
+        {
+            var ventas = new List<Ventas>();
+            var search = _ctx.ScanAsync<Ventas>(new List<ScanCondition>());
+
+            do
+            {
+                var page = await search.GetNextSetAsync(ct);
+                ventas.AddRange(page);
+            } while (!search.IsDone);
+            return ventas;
+        }
     }
 
-    
+
     [DynamoDBTable("Ventas")]
     public sealed class VentaDdb
     {
@@ -37,23 +50,26 @@ namespace Infraestructure
         public string ClienteId { get; set; } = default!;
         public DateTime Fecha { get; set; }
         public decimal Total { get; set; }
-        public List<LineaVenta> Lineas { get; set; } = new();
+        public required string TpoVenta { get; set; }
+        public required string Estado { get; set; }
 
-        public static VentaDdb FromDomain(Venta v) => new()
+        public static VentaDdb FromDomain(Ventas v) => new()
         {
             IdVenta = v.IdVenta,
             ClienteId = v.ClienteId,
             Fecha = v.Fecha,
             Total = v.Total,
-            Lineas = v.Lineas
+            TpoVenta = v.TpoVenta,
+            Estado = v.Estado,
         };
-        public Venta ToDomain() => new()
+        public Ventas ToDomain() => new()
         {
             IdVenta = IdVenta,
             ClienteId = ClienteId,
             Fecha = Fecha,
             Total = Total,
-            Lineas = Lineas
+            TpoVenta = TpoVenta,
+            Estado = Estado,
         };
     }
 }

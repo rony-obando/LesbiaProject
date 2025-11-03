@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZG0AGTA4IE0=",
+  "dgSpecHash": "8qd3JTpe0Sc=",
   "success": true,
   "projectFilePath": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\AWSLambdaLesbia.csproj",
   "expectedPackageFiles": [
@@ -22,8 +22,6 @@
     "C:\\Users\\Rony Obando\\.nuget\\packages\\system.io.pipelines\\9.0.9\\system.io.pipelines.9.0.9.nupkg.sha512",
     "C:\\Users\\Rony Obando\\.nuget\\packages\\system.text.encodings.web\\9.0.9\\system.text.encodings.web.9.0.9.nupkg.sha512",
     "C:\\Users\\Rony Obando\\.nuget\\packages\\system.text.json\\9.0.9\\system.text.json.9.0.9.nupkg.sha512",
-    "C:\\Users\\Rony Obando\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.18\\microsoft.netcore.app.runtime.linux-x64.8.0.18.nupkg.sha512",
-    "C:\\Users\\Rony Obando\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.18\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.18.nupkg.sha512",
     "C:\\Users\\Rony Obando\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.18\\microsoft.netcore.app.crossgen2.win-x64.8.0.18.nupkg.sha512"
   ],
   "logs": []

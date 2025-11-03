@@ -9,8 +9,9 @@ namespace Interfaces
 {
     public interface IVentaRepository
     {
-        Task<Venta?> GetByIdAsync(string id, CancellationToken ct = default);
-        Task SaveAsync(Venta venta, CancellationToken ct = default);
+        Task<Ventas?> GetByIdAsync(string id, CancellationToken ct = default);
+        Task SaveAsync(Ventas venta, CancellationToken ct = default);
         Task DeleteAsync(string id, CancellationToken ct = default);
+        Task<List<Ventas>> GetAllVentas(CancellationToken ct = default);
     }
 }
