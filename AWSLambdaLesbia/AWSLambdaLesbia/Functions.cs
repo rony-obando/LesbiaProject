@@ -16,6 +16,7 @@ public class Functions
     private readonly IProductosRepository _productosRepo;
     private readonly IVentaRepository _ventaRepository;
     private readonly IClientesRepository _clientesRepository;
+    private readonly IPrestamosRepository _prestamosRepository;
     // Ejemplo: agrega otros repos conforme crezcan tus entidades
     // private readonly IClientesRepository _clientesRepo;
 
@@ -24,6 +25,7 @@ public class Functions
         _productosRepo = Services.GetRequiredService<IProductosRepository>();
         _ventaRepository = Services.GetRequiredService<IVentaRepository>();
         _clientesRepository = Services.GetRequiredService<IClientesRepository>();
+        _prestamosRepository = Services.GetRequiredService<IPrestamosRepository>();
     }
 
     public record AppRequest(string Action, JsonElement Payload);
@@ -155,6 +157,48 @@ public class Functions
         }
 
     }
+    public async Task<object> PrestamosFunctions(JsonElement input, ILambdaContext ctx)
+    {
+        if (input.TryGetProperty("body", out var bodyElement) && bodyElement.ValueKind == JsonValueKind.String)
+        {
+            var bodyString = bodyElement.GetString();
+
+            var req = JsonSerializer.Deserialize<AppRequest>(bodyString!);
+            switch (req!.Action)
+            {
+                case "Prestamos.Save":
+                    var p = req.Payload.Deserialize<Prestamos>();
+                    if (p == null)
+                    {
+                        throw new ArgumentNullException("Prestamo no válido");
+                    }
+                    await _prestamosRepository.SavePrestamo(p!, CancellationToken.None);
+                    return new { ok = true, p.IdPrestamo };
+
+                case "Prestamos.GetById":
+                    var get = req.Payload.Deserialize<GetDto>();
+                    var prestamos = await _prestamosRepository.GetbyIdPrestamo(get.Id, CancellationToken.None);
+                    return prestamos is null ? new { ok = false, error = "NOT_FOUND" } : new { ok = true, prestamos };
+
+                case "Prestamos.Delete":
+                    var getdelete = req.Payload.Deserialize<GetDto>();
+                    await _prestamosRepository.DeletePrestamo(getdelete.Id, CancellationToken.None);
+                    return new { ok = true };
+
+                case "Prestamos.GetAll":
+                    var prds = await _prestamosRepository.GetAllPrestamos(CancellationToken.None);
+                    return new { ok = true, prds };
+
+                default:
+                    return new { ok = false, error = $"Unknown action '{req.Action}'" };
+            }
+        }
+        else
+        {
+            throw new ArgumentException("No se encontró la propiedad 'body'");
+        }
+
+    }
 
     private static IServiceProvider BuildServices()
     {
@@ -172,6 +216,9 @@ public class Functions
 
         var ventasTable = Environment.GetEnvironmentVariable("VENTAS_TABLE") ?? "Ventas";
         services.AddSingleton<IVentaRepository>(sp => new DynamoDbVentaRepository(ddb, ventasTable));
+
+        var prestamoTable = Environment.GetEnvironmentVariable("PRESTAMOS_TABLE") ?? "Prestamos";
+        services.AddSingleton<IPrestamosRepository>(sp => new DynamoDbPrestamosRepository(ddb, prestamoTable));
 
 
 

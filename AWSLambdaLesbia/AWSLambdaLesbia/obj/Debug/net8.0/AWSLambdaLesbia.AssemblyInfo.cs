@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AWSLambdaLesbia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da6f2d9e583a7ec749aa81b11d0c5975459929ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f7876402327a4305c3dcb8c53021625a00ffaeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("AWSLambdaLesbia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AWSLambdaLesbia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

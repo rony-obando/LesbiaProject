@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8qd3JTpe0Sc=",
+  "dgSpecHash": "rYp9g8Mj6hQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\AWSLambdaLesbia.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,8 @@
     "C:\\Users\\Rony Obando\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.9\\microsoft.extensions.configuration.binder.9.0.9.nupkg.sha512",
     "C:\\Users\\Rony Obando\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.9\\microsoft.extensions.configuration.fileextensions.9.0.9.nupkg.sha512",
     "C:\\Users\\Rony Obando\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.9\\microsoft.extensions.configuration.json.9.0.9.nupkg.sha512",
-    "C:\\Users\\Rony Obando\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\Rony Obando\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.10\\microsoft.extensions.dependencyinjection.9.0.10.nupkg.sha512",
+    "C:\\Users\\Rony Obando\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.10\\microsoft.extensions.dependencyinjection.abstractions.9.0.10.nupkg.sha512",
     "C:\\Users\\Rony Obando\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.9\\microsoft.extensions.fileproviders.abstractions.9.0.9.nupkg.sha512",
     "C:\\Users\\Rony Obando\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.9\\microsoft.extensions.fileproviders.physical.9.0.9.nupkg.sha512",
     "C:\\Users\\Rony Obando\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.9\\microsoft.extensions.filesystemglobbing.9.0.9.nupkg.sha512",
