@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "AWSLambdaLesbia\\Function.cs",
               "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Function.cs",
               "RelativeToolTip": "AWSLambdaLesbia\\Function.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T20:18:42.68Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Interfaces\\IVentaRepository.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAA5wBAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T20:11:46.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T20:11:46.31Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Entities\\Ventas.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T20:08:39.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T20:08:39.532Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "AWSLambdaLesbia\\prueba.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T20:06:57.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T20:06:57.113Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "FileSaver\\DynamoDbVentaRepository.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwBYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T00:53:02.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T00:53:02.609Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Interfaces\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T00:47:02.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T00:47:02.793Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "Entities\\Productos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T00:42:24.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T00:42:24.767Z"
             }
           ]
         }

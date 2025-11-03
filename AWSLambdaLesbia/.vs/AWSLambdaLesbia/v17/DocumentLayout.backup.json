@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\awslambdalesbia\\modules\\ventas\\infraestructure\\domain\\aggregates\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|solutionrelative:awslambdalesbia\\modules\\ventas\\infraestructure\\domain\\aggregates\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\awslambdalesbia\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|solutionrelative:awslambdalesbia\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\awslambdalesbia\\abstractions\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|solutionrelative:awslambdalesbia\\abstractions\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73E8EAE9-5AA6-481A-8ACF-AEC929804137}|Interfaces\\Interfaces.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8EAE9-5AA6-481A-8ACF-AEC929804137}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\awslambdalesbia\\modules\\ventas\\infraestructure\\domain\\events\\ventacreada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|solutionrelative:awslambdalesbia\\modules\\ventas\\infraestructure\\domain\\events\\ventacreada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73E8EAE9-5AA6-481A-8ACF-AEC929804137}|Interfaces\\Interfaces.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E8EAE9-5AA6-481A-8ACF-AEC929804137}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\awslambdalesbia\\modules\\ventas\\infraestructure\\domain\\aggregates\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|solutionrelative:awslambdalesbia\\modules\\ventas\\infraestructure\\domain\\aggregates\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD7E5D7D-9260-480E-86E0-D3201D708144}|FileSaver\\Infraestructure.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\filesaver\\dynamodbventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7E5D7D-9260-480E-86E0-D3201D708144}|FileSaver\\Infraestructure.csproj|solutionrelative:filesaver\\dynamodbventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\awslambdalesbia\\shared\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|solutionrelative:awslambdalesbia\\shared\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E657412-4025-4E70-A30D-F596A2273AE8}|Entities\\Entities.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\entities\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E657412-4025-4E70-A30D-F596A2273AE8}|Entities\\Entities.csproj|solutionrelative:entities\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\awslambdalesbia\\dynamodb\\contextdynamodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|solutionrelative:awslambdalesbia\\dynamodb\\contextdynamodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E657412-4025-4E70-A30D-F596A2273AE8}|Entities\\Entities.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\entities\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E657412-4025-4E70-A30D-F596A2273AE8}|Entities\\Entities.csproj|solutionrelative:entities\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\awslambdalesbia\\modules\\ventas\\infraestructure\\dynamo\\ventastablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|solutionrelative:awslambdalesbia\\modules\\ventas\\infraestructure\\dynamo\\ventastablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\awslambdalesbia\\modules\\shared\\dynamo\\dynamodbclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|solutionrelative:awslambdalesbia\\modules\\shared\\dynamo\\dynamodbclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|c:\\users\\rony obando\\source\\repos\\awslambdalesbia\\awslambdalesbia\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B31FB9-3778-9C89-D4BA-06D194F2D988}|AWSLambdaLesbia\\AWSLambdaLesbia.csproj|solutionrelative:awslambdalesbia\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DetalleVenta.cs",
-              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Domain\\Aggregates\\DetalleVenta.cs",
-              "RelativeDocumentMoniker": "AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Domain\\Aggregates\\DetalleVenta.cs",
-              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Domain\\Aggregates\\DetalleVenta.cs",
-              "RelativeToolTip": "AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Domain\\Aggregates\\DetalleVenta.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowBAAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Function.cs",
+              "RelativeDocumentMoniker": "AWSLambdaLesbia\\Function.cs",
+              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Function.cs",
+              "RelativeToolTip": "AWSLambdaLesbia\\Function.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T22:05:14.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VentaCreada.cs",
-              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Domain\\Events\\VentaCreada.cs",
-              "RelativeDocumentMoniker": "AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Domain\\Events\\VentaCreada.cs",
-              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Domain\\Events\\VentaCreada.cs",
-              "RelativeToolTip": "AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Domain\\Events\\VentaCreada.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T12:47:01.901Z",
+              "WhenOpened": "2025-10-10T20:18:42.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IVentaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Abstractions\\IVentaRepository.cs",
-              "RelativeDocumentMoniker": "AWSLambdaLesbia\\Abstractions\\IVentaRepository.cs",
-              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Abstractions\\IVentaRepository.cs",
-              "RelativeToolTip": "AWSLambdaLesbia\\Abstractions\\IVentaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\Interfaces\\IVentaRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IVentaRepository.cs",
+              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\Interfaces\\IVentaRepository.cs",
+              "RelativeToolTip": "Interfaces\\IVentaRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T12:35:20.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Domain\\Aggregates\\Venta.cs",
-              "RelativeDocumentMoniker": "AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Domain\\Aggregates\\Venta.cs",
-              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Domain\\Aggregates\\Venta.cs",
-              "RelativeToolTip": "AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Domain\\Aggregates\\Venta.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAuwEIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T12:17:58.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AggregateRoot.cs",
-              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Shared\\Domain\\AggregateRoot.cs",
-              "RelativeDocumentMoniker": "AWSLambdaLesbia\\Shared\\Domain\\AggregateRoot.cs",
-              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Shared\\Domain\\AggregateRoot.cs",
-              "RelativeToolTip": "AWSLambdaLesbia\\Shared\\Domain\\AggregateRoot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T12:12:59.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VentasTableRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Dynamo\\VentasTableRepository.cs",
-              "RelativeDocumentMoniker": "AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Dynamo\\VentasTableRepository.cs",
-              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Dynamo\\VentasTableRepository.cs",
-              "RelativeToolTip": "AWSLambdaLesbia\\Modules\\Ventas\\Infraestructure\\Dynamo\\VentasTableRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T02:46:36.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DynamoDbClientFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Modules\\Shared\\Dynamo\\DynamoDbClientFactory.cs",
-              "RelativeDocumentMoniker": "AWSLambdaLesbia\\Modules\\Shared\\Dynamo\\DynamoDbClientFactory.cs",
-              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\Modules\\Shared\\Dynamo\\DynamoDbClientFactory.cs",
-              "RelativeToolTip": "AWSLambdaLesbia\\Modules\\Shared\\Dynamo\\DynamoDbClientFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T02:31:57.354Z",
+              "WhenOpened": "2025-10-10T20:11:46.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ContextDynamodb.cs",
-              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\dynamodb\\ContextDynamodb.cs",
-              "RelativeDocumentMoniker": "AWSLambdaLesbia\\dynamodb\\ContextDynamodb.cs",
-              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\dynamodb\\ContextDynamodb.cs",
-              "RelativeToolTip": "AWSLambdaLesbia\\dynamodb\\ContextDynamodb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\Entities\\Ventas.cs",
+              "RelativeDocumentMoniker": "Entities\\Ventas.cs",
+              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\Entities\\Ventas.cs",
+              "RelativeToolTip": "Entities\\Ventas.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T02:26:59.518Z",
+              "WhenOpened": "2025-10-10T20:08:39.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "prueba.cs",
+              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\prueba.cs",
+              "RelativeDocumentMoniker": "AWSLambdaLesbia\\prueba.cs",
+              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\AWSLambdaLesbia\\prueba.cs",
+              "RelativeToolTip": "AWSLambdaLesbia\\prueba.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T20:06:57.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DynamoDbVentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\FileSaver\\DynamoDbVentaRepository.cs",
+              "RelativeDocumentMoniker": "FileSaver\\DynamoDbVentaRepository.cs",
+              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\FileSaver\\DynamoDbVentaRepository.cs",
+              "RelativeToolTip": "FileSaver\\DynamoDbVentaRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:53:02.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\Interfaces\\Program.cs",
+              "RelativeToolTip": "Interfaces\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:47:02.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\Entities\\Productos.cs",
+              "RelativeDocumentMoniker": "Entities\\Productos.cs",
+              "ToolTip": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\Entities\\Productos.cs",
+              "RelativeToolTip": "Entities\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:42:24.767Z",
               "EditorCaption": ""
             }
           ]
