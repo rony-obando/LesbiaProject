@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5lb1PgwOrAU=",
+  "dgSpecHash": "s8Z1ukTgmcw=",
   "success": true,
   "projectFilePath": "C:\\Users\\Rony Obando\\source\\repos\\AWSLambdaLesbia\\Interfaces\\Interfaces.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Rony Obando\\.nuget\\packages\\awssdk.core\\4.0.3.3\\awssdk.core.4.0.3.3.nupkg.sha512",
+    "C:\\Users\\Rony Obando\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.10.1\\awssdk.dynamodbv2.4.0.10.1.nupkg.sha512"
+  ],
   "logs": []
 }

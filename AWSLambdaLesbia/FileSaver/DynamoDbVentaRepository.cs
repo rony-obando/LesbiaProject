@@ -8,6 +8,7 @@ namespace Infraestructure
     public sealed class DynamoDbVentaRepository : IVentaRepository
     {
         private readonly IDynamoDBContext _ctx;
+        private readonly IAmazonDynamoDB _dynamodb;
 
         [Obsolete]
         public DynamoDbVentaRepository(IAmazonDynamoDB client, string tableName)

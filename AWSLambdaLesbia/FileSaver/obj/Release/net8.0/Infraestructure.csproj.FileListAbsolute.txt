@@ -17,3 +17,4 @@ C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\FileSaver\obj\Release\net8.0\r
 C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\FileSaver\obj\Release\net8.0\Infraestructure.pdb
 C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\FileSaver\obj\Release\net8.0\Infraestructure.genruntimeconfig.cache
 C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\FileSaver\obj\Release\net8.0\ref\Infraestructure.dll
+C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\FileSaver\obj\Release\net8.0\Infraestructure.sourcelink.json

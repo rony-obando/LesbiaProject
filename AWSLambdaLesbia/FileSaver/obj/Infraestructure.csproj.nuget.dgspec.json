@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[4.0.10.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -66,6 +72,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     },
@@ -124,11 +135,11 @@
           "dependencies": {
             "AWSSDK.Core": {
               "target": "Package",
-              "version": "[4.0.0.33, )"
+              "version": "[4.0.3.3, )"
             },
             "AWSSDK.DynamoDBv2": {
               "target": "Package",
-              "version": "[4.0.7.1, )"
+              "version": "[4.0.10.1, )"
             }
           },
           "imports": [
@@ -148,6 +159,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     },
@@ -217,6 +233,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }

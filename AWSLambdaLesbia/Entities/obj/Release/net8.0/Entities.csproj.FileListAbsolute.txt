@@ -11,3 +11,5 @@ C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\Entities\obj\Release\net8.0\re
 C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\Entities\obj\Release\net8.0\Entities.pdb
 C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\Entities\obj\Release\net8.0\Entities.genruntimeconfig.cache
 C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\Entities\obj\Release\net8.0\ref\Entities.dll
+C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\Entities\obj\Release\net8.0\Entities.sourcelink.json
+C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\Entities\obj\Release\net8.0\Entities.csproj.AssemblyReference.cache

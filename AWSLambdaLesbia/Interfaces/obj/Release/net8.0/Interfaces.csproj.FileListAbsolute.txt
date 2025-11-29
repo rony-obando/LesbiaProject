@@ -15,3 +15,4 @@ C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\Interfaces\obj\Release\net8.0\
 C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\Interfaces\obj\Release\net8.0\Interfaces.pdb
 C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\Interfaces\obj\Release\net8.0\Interfaces.genruntimeconfig.cache
 C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\Interfaces\obj\Release\net8.0\ref\Interfaces.dll
+C:\Users\Rony Obando\source\repos\AWSLambdaLesbia\Interfaces\obj\Release\net8.0\Interfaces.sourcelink.json
